@@ -1,0 +1,33 @@
+<html>
+    <title>Class Task</title>
+    <style>
+        .l1{color: blue;}
+        .l2{color: green;}
+        .T1{color:burlywood}
+        .T2{color:chocolate}
+        .h1{text-align: center;}
+    </style>
+    <body>
+        <h1>Weekdays and Technologies</h1>
+
+        <p>Weekdays names are below:</p>
+        <ol>
+            <li class="l1">Monday</li>
+            <li>Tuesday</li>
+            <li>Wedensday</li>
+            <li>Thursday</li>
+            <li class="l2">Friday</li>
+            <li>Saturday</li>
+            <li>Sunday</li>
+        </ol>
+
+        <p>Technologies names are below:</p>
+        <ul>
+            <li class="T1">HTML</li>
+            <li>JavaScript</li>
+            <li>CSS</li>
+            <li class="T2">Cyber Security</li>
+        </ul>
+        
+    </body>
+</html>
